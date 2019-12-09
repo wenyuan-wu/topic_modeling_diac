@@ -1,0 +1,42 @@
+HBox(children=(FloatProgress(value=0.0, max=3.0), HTML(value='')))
+
+[(0,
+  '0.003*"Schwester" + 0.003*"Köbi" + 0.003*"geben" + 0.003*"lassen" + '
+  '0.003*"freuen" + 0.003*"Freude" + 0.003*"lieben" + 0.003*"Mama" + '
+  '0.003*"Mandi" + 0.003*"beid"'),
+ (1,
+  '0.003*"Oktober" + 0.003*"weiss" + 0.003*"solch" + 0.003*"Woche" + '
+  '0.003*"freuen" + 0.003*"schwimmen" + 0.003*"33" + 0.003*"Bekanntschaft" + '
+  '0.003*"schön" + 0.003*"nächst"'),
+ (2,
+  '0.013*"Haus" + 0.013*"hoffentlich" + 0.013*"nächst" + 0.012*"schön" + '
+  '0.012*"weiss" + 0.012*"Oktober" + 0.007*"landen" + 0.007*"Schreibmaschine" '
+  '+ 0.007*"Wartenweiler" + 0.007*"Fähigkeit"'),
+ (3,
+  '0.024*"Schwester" + 0.018*"danken" + 0.012*"selber" + 0.012*"Träne" + '
+  '0.012*"Schwager" + 0.012*"sehen" + 0.012*"hoffen" + 0.012*"verlassen" + '
+  '0.012*"widern" + 0.012*"Lob"'),
+ (4,
+  '0.003*"Schwester" + 0.003*"danken" + 0.003*"widern" + 0.003*"Lob" + '
+  '0.003*"verlassen" + 0.003*"hoffen" + 0.003*"sehen" + 0.003*"gleichen" + '
+  '0.003*"Auge" + 0.003*"Träne"'),
+ (5,
+  '0.003*"freuen" + 0.003*"Brief" + 0.003*"lassen" + 0.003*"Heinrichsbad" + '
+  '0.003*"herzlich" + 0.003*"Freude" + 0.003*"Gall" + 0.003*"beid" + '
+  '0.003*"lieben" + 0.003*"Mandi"'),
+ (6,
+  '0.003*"Schwester" + 0.003*"freuen" + 0.003*"sehen" + 0.003*"danken" + '
+  '0.003*"Schwager" + 0.003*"hoffen" + 0.003*"verlassen" + 0.003*"Lob" + '
+  '0.003*"gestern" + 0.003*"widern"'),
+ (7,
+  '0.003*"freuen" + 0.003*"Schwester" + 0.003*"beid" + 0.003*"geben" + '
+  '0.003*"Lob" + 0.003*"schaden" + 0.003*"hoffen" + 0.003*"sehen" + '
+  '0.003*"Pater" + 0.003*"Heinrichsbad"'),
+ (8,
+  '0.016*"freuen" + 0.011*"Schwester" + 0.011*"Gottfried" + 0.011*"Mama" + '
+  '0.011*"Brief" + 0.011*"herzlich" + 0.011*"lieben" + 0.011*"Mandi" + '
+  '0.011*"geben" + 0.011*"Pater"'),
+ (9,
+  '0.003*"freuen" + 0.003*"Schwester" + 0.003*"geben" + 0.003*"Pater" + '
+  '0.003*"beid" + 0.003*"Mama" + 0.003*"Köbi" + 0.003*"Freude" + 0.003*"Gall" '
+  '+ 0.003*"lassen"')]

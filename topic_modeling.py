@@ -131,12 +131,14 @@ topics = lda_model.show_topics(formatted=False)
 
 fig, axes = plt.subplots(2, 2, figsize=(10,10), sharex=True, sharey=True)
 
+topic_list = [3, 8, 2, 0]
+
 for i, ax in enumerate(axes.flatten()):
     fig.add_subplot(ax)
-    topic_words = dict(topics[i][1])
+    topic_words = dict(topics[topic_list[i]][1])
     cloud.generate_from_frequencies(topic_words, max_font_size=300)
     plt.gca().imshow(cloud)
-    plt.gca().set_title('Topic ' + str(i), fontdict=dict(size=16))
+    plt.gca().set_title('Topic ' + str(topic_list[i]), fontdict=dict(size=16))
     plt.gca().axis('off')
 
 
